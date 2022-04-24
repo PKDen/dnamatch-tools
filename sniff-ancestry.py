@@ -29,7 +29,7 @@
 #htmlfile = 'A.html'
 # OTHERS: you may need a line similar to this (without the hash):
 #htmlfile = '/tmp/A.html'
-htmlfile = '/tmp/A.html'
+htmlfile = '/tmp/C:\Users\paula\OneDrive\Documents\Denson and Carmack DNA raw data\AncestryDNA® Matches_Burleson_distant_042422_PKD_files.html'
 
 # The output file name
 tester_csv = 'matches.csv'
